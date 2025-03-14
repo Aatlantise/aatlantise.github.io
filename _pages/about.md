@@ -18,8 +18,7 @@ and attend free food events around campus.
 
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
-### Publications
-
+## Publications
 **Junghyun Min**, Minho Lee, Woochul Lee, Yeonsoo Lee. 
 [Punctuation restoration improves structure understanding without supervision](../files/punctuation-restoration-min-2025.pdf).
 Repl4NLP at NAACL 2025.
@@ -32,7 +31,8 @@ R. Thomas McCoy, **Junghyun Min**, and Tal Linzen.
 [BERTs of a feather do not generalize together: Large variability in generalization across models with similar test set performance](https://aclanthology.org/2020.blackboxnlp-1.21/).
 BlackboxNLP at EMNLP 2020.
 
-### Theses and technical reports
+
+## Technical reports and extralinguistic projects
 
 Minho Lee, **Junghyun Min**, Woochul Lee, Yeonsoo Lee.
 [Structured Language Generation Model for Robust Structure Prediction](https://arxiv.org/abs/2402.08971). ArXiv preprint. 2024.
@@ -40,20 +40,18 @@ Minho Lee, **Junghyun Min**, Woochul Lee, Yeonsoo Lee.
 **Junghyun Min**.
 [문장 부호 복원을 통한 구조 이해 능력의 비지도 향상](https://ncsoft.github.io/ncresearch/195e5588d76145a5becc6052cdbf9cfa5092dcbe). NC AI Tech Blog. 2024.
 
+genDOC, a [wecommit.ai](https://www.wecommit.ai) prototype document assistant for paperwork automation. Daangn-Primer AI Hackathon 2023.
+
 **Junghyun Min**.
 [ㄱㄱㄱ: 견고함으로 가는 길 2](https://ncsoft.github.io/ncresearch/64da1f4997161eff97aa5d3ce09e9ad83d751a79). NC AI Tech Blog. 2023.
 
 **Junghyun Min**.
 [ㄱㄱㄱ: 견고함으로 가는 길 1](https://ncsoft.github.io/ncresearch/abb25deb34567f41e96fe4b9250719cb0f1399fe). NC AI Tech Blog. 2023.
 
+ai.ly, a GPT-2 based AI lyricist that composes user-custom lyrics. 2021. [Sample hip-hop song](https://www.youtube.com/watch?v=0hBXUNCaauI).
+
 **Junghyun Min**.
 [The roots and effects of heuristics in natural langauge inference and question answering models](../files/Junghyun-Min-Masters-Thesis.pdf). 2020. Master's thesis.
-
-### Extralinguistic Projects
-
-genDOC, a [wecommit.ai](https://www.wecommit.ai) prototype document assistant for paperwork automation. Daangn-Primer AI Hackathon 2023.
-
-ai.ly, a GPT-2 based AI lyricist that composes user-custom lyrics. 2021. [Sample hip-hop song](https://www.youtube.com/watch?v=0hBXUNCaauI).
 
 Christopher McBride, **Junghyun Min**.
 [Graphene and Dirac Equations](../files/McBride-Min-Graphene_and_Dirac_Equations.pdf). 2017.
