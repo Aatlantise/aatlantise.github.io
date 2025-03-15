@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "aatlantise"
+title                    : "aatlantise.science"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Junghyun Min"
 description              : &description "personal description"
 url                      : "https://aatlantise.science/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "Headshot.jpeg"
   name             : "Junghyun Min"
-  bio              : "Computational linguistics PhD Student with NLP background"
+  bio              : "Computational linguistics PhD student with NLP background"
   employer         : "Georgetown University"
   email            : "jm3743@georgetown.edu"
   resume           : "/files/Junghyun Min Resume.pdf"
