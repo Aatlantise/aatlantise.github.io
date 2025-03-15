@@ -13,8 +13,8 @@ title                    : "aatlantise"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://aatlantise.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "https://aatlantise.science/" # the subpath of your site, e.g. "/blog"
+url                      : "https://aatlantise.science/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aatlantise/aatlantise.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
