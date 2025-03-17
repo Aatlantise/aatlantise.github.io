@@ -21,7 +21,7 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 ## Publications
 **Junghyun Min**, Minho Lee, Woochul Lee, Yeonsoo Lee. 
 [Punctuation restoration improves structure understanding without supervision](../files/punctuation-restoration-min-2025.pdf).
-Repl4NLP at NAACL 2025.
+RepL4NLP at NAACL 2025.
 
 **Junghyun Min**, R. Thomas McCoy, Dipanjan Das, Emily Pitler, and Tal Linzen.
 [Syntactic data augmentation increases robustness to inference heuristics](https://aclanthology.org/2020.acl-main.212/).
