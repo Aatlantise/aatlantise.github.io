@@ -33,10 +33,10 @@ BlackboxNLP at EMNLP 2020.
 
 ## Education and work experience
 
-| Ph.D. student, Computational Linguistics, Georgetown University.                                 | 2024 -      |
-|--------------------------------------------------------------------------------------------------|-------------|
-| NLP Engineer, NCSOFT                                                                             | 2021 - 2024 |
+| Ph.D. student, Computational Linguistics, Georgetown University                                 | 2024 -      |
+|-------------------------------------------------------------------------------------------------|-------------|
+| NLP Engineer, NCSOFT                                                                            | 2021 - 2024 |
 | M.A. Cognitive Science, Johns Hopkins University. Advised by [Tal Linzen](https://tallinzen.net) | 2019 - 2020 | 
-| Data Analyst, Harford Community College                                                          | 2018 - 2019 |
-| B.S. Physics, B.A. Mathematics, Johns Hopkins University                                         | 2014 - 2017 |
+| Data Analyst, Harford Community College                                                         | 2018 - 2019 |
+| B.S. Physics, B.A. Mathematics, Johns Hopkins University                                        | 2014 - 2017 |
 
