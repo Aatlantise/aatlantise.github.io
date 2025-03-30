@@ -13,8 +13,9 @@ novel input, and language modeling beyond text prediction.
 
 Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU and information extraction.
 
-Outside of classes and assitantships, I like to participate in intramural sports as both player and coach,
-and attend free food events around campus.
+Outside of classes and assitantships, I like to participate in intramural sports as both player and coach, 
+attend free food events around campus,
+and catch Thursday afternoon flights to Toronto.
 
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
