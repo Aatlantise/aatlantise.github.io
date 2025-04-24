@@ -8,14 +8,19 @@ redirect_from:
 ---
 
 I'm a PhD Student at the Linguistic Department at Georgetown University.
-My interests include robust representations of language, how humans and statistical learners generalize to 
-novel input, and language modeling beyond text prediction.
+I am most interested in natural language understanding and how LLMs and computational systems encode linguistic structure
+to perform complex NLU tasks. I am also interested in language modeling beyond text,
+LLMs as models of cognition,
+and treebanking.
 
 Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU and information extraction.
 
 Outside of classes and assitantships, I like to participate in intramural sports as both player and coach, 
 attend free food events around campus,
 and catch Thursday afternoon flights to Toronto.
+
+For Summer 2025, I will be joining the [Lee Language Lab](https://www.cs.toronto.edu/~ealee/public/)
+(University of Toronto, Ontario Tech University) as a visiting researcher.
 
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
