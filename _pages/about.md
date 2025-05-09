@@ -26,7 +26,7 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## Publications
 **Junghyun Min**, Minho Lee, Woochul Lee, Yeonsoo Lee. 
-[Punctuation restoration improves structure understanding without supervision](../files/punctuation-restoration-min-2025.pdf).
+[Punctuation restoration improves structure understanding without supervision](https://aclanthology.org/2025.repl4nlp-1.10/).
 RepL4NLP at NAACL 2025.
 
 **Junghyun Min**, R. Thomas McCoy, Dipanjan Das, Emily Pitler, and Tal Linzen.
@@ -41,6 +41,7 @@ BlackboxNLP at EMNLP 2020.
 
 | Ph.D. student, Computational Linguistics, Georgetown University                                 | 2024 -      |
 |-------------------------------------------------------------------------------------------------|-------------|
+| Visiting Researcher, Computer Science, University of Toronto | 2025 |
 | NLP Engineer, NCSOFT                                                                            | 2021 - 2024 |
 | M.A. Cognitive Science, Johns Hopkins University. Advised by [Tal Linzen](https://tallinzen.net) | 2019 - 2020 | 
 | Data Analyst, Harford Community College                                                         | 2018 - 2019 |
