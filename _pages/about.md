@@ -15,9 +15,8 @@ and treebanking.
 
 Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU and information extraction.
 
-Outside of classes and assitantships, I like to participate in intramural sports as both player and coach, 
-attend free food events around campus,
-and catch Thursday afternoon flights to Toronto.
+Outside of classes and assitantships, I like to participate in intramural sports as both player and coach and
+attend free food events around campus.
 
 For Summer 2025, I will be joining the [Lee Language Lab](https://www.cs.toronto.edu/~ealee/public/)
 (University of Toronto, Ontario Tech University) as a visiting researcher.
@@ -25,6 +24,10 @@ For Summer 2025, I will be joining the [Lee Language Lab](https://www.cs.toronto
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## Publications
+Lauren Levine, **Junghyun Min**, Amir Zeldes.
+[Building UD Cairo for Old English in the Classroom](https://arxiv.org/abs/2504.18718)
+SyntaxFest 2025.
+
 **Junghyun Min**, Minho Lee, Woochul Lee, Yeonsoo Lee. 
 [Punctuation restoration improves structure understanding without supervision](https://aclanthology.org/2025.repl4nlp-1.10/).
 RepL4NLP at NAACL 2025.
