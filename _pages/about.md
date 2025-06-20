@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Student at the Linguistic Department at Georgetown University.
-I am most interested in natural language understanding and how LLMs and computational systems encode linguistic structure
-to perform complex NLU tasks. I am also interested in language modeling beyond text,
-LLMs as models of cognition,
-and treebanking.
+I'm a PhD Student at the Linguistic Department at Georgetown University,
+advised by [Ethan Wilcox](https://wilcoxeg.github.io/).
+I am most interested in natural language understanding and how humans and computational systems 
+interact with meaning and form when they process language and perform linguistic tasks.
 
 Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU and information extraction.
 
