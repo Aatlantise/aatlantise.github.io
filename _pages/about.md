@@ -25,7 +25,7 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 ## Publications
 Lauren Levine, **Junghyun Min**, Amir Zeldes.
 [Building UD Cairo for Old English in the Classroom](https://arxiv.org/abs/2504.18718)
-SyntaxFest 2025.
+UDW at SyntaxFest 2025.
 
 **Junghyun Min**, Minho Lee, Woochul Lee, Yeonsoo Lee. 
 [Punctuation restoration improves structure understanding without supervision](https://aclanthology.org/2025.repl4nlp-1.10/).
