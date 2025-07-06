@@ -9,6 +9,10 @@ redirect_from:
 
 Technical reports, preprints, and projects outside of linguistics.
 
+## 2025
+**Junghyun Min**, Xiulin Yang, Shira Wein.
+[When Does Meaning Backfire? Investigating the Role of AMRs in NLI](https://arxiv.org/abs/2506.14613). ArXiv preprint. 2025.
+
 ## 2024
 Minho Lee, **Junghyun Min**, Woochul Lee, Yeonsoo Lee.
 [Structured Language Generation Model for Robust Structure Prediction](https://arxiv.org/abs/2402.08971). ArXiv preprint. 2024.
