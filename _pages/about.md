@@ -17,8 +17,8 @@ Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU
 Outside of classes and assitantships, I like to participate in intramural sports as both player and coach and
 attend free food events around campus.
 
-For Summer 2025, I will be joining the [Lee Language Lab](https://www.cs.toronto.edu/~ealee/public/)
-(University of Toronto, Ontario Tech University) as a visiting researcher.
+In Fall 2025, I will be serving as Teaching Assistant for LING1000 at Georgetown University
+as well as supervising CS494/495 at University of Toronto. 
 
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
@@ -41,11 +41,11 @@ BlackboxNLP at EMNLP 2020.
 
 ## Education and work experience
 
-| Ph.D. student, Computational Linguistics, Georgetown University                                 | 2024 -      |
-|-------------------------------------------------------------------------------------------------|-------------|
-| Visiting Researcher, Computer Science, University of Toronto | 2025 |
-| NLP Engineer, NCSOFT                                                                            | 2021 - 2024 |
-| M.A. Cognitive Science, Johns Hopkins University. Advised by [Tal Linzen](https://tallinzen.net) | 2019 - 2020 | 
-| Data Analyst, Harford Community College                                                         | 2018 - 2019 |
-| B.S. Physics, B.A. Mathematics, Johns Hopkins University                                        | 2014 - 2017 |
+| Ph.D. student, Linguistics, Georgetown University. Advised by [Ethan Wilcox.](https://wilcoxeg.github.io/) | 2024 -      |
+|------------------------------------------------------------------------------------------------------------|-------------|
+| Visiting Researcher, Computer Science, University of Toronto.                                              | 2025        |
+| NLP Engineer, NCSOFT                                                                                       | 2021 - 2024 |
+| M.A. Cognitive Science, Johns Hopkins University. Advised by [Tal Linzen](https://tallinzen.net)           | 2019 - 2020 | 
+| Data Analyst, Harford Community College                                                                    | 2018 - 2019 |
+| B.S. Physics, B.A. Mathematics, Johns Hopkins University                                                   | 2014 - 2017 |
 
