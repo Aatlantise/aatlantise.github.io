@@ -24,7 +24,7 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## Publications
 Lauren Levine, **Junghyun Min**, Amir Zeldes.
-[Building UD Cairo for Old English in the Classroom](https://arxiv.org/abs/2504.18718)
+[Building UD Cairo for Old English in the Classroom](https://aclanthology.org/2025.udw-1.10/)
 UDW at SyntaxFest 2025.
 
 **Junghyun Min**, Minho Lee, Woochul Lee, Yeonsoo Lee. 
