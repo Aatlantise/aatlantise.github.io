@@ -41,11 +41,11 @@ BlackboxNLP at EMNLP 2020.
 
 ## Education and work experience
 
-| Ph.D. student, Linguistics, Georgetown University. Advised by [Ethan Wilcox.](https://wilcoxeg.github.io/) | 2024 -      |
+| Ph.D. student, Linguistics, Georgetown University. Advised by [Ethan Wilcox](https://wilcoxeg.github.io/). | 2024 -      |
 |------------------------------------------------------------------------------------------------------------|-------------|
-| Visiting Researcher, Computer Science, University of Toronto.                                              | 2025        |
+| Visiting Researcher, Computer Science, University of Toronto. Advised by [Annie Lee](https://www.cs.toronto.edu/~ealee/public/).                    | 2025        |
 | NLP Engineer, NCSOFT                                                                                       | 2021 - 2024 |
-| M.A. Cognitive Science, Johns Hopkins University. Advised by [Tal Linzen](https://tallinzen.net)           | 2019 - 2020 | 
+| M.A. Cognitive Science, Johns Hopkins University. Advised by [Tal Linzen](https://tallinzen.net).          | 2019 - 2020 | 
 | Data Analyst, Harford Community College                                                                    | 2018 - 2019 |
 | B.S. Physics, B.A. Mathematics, Johns Hopkins University                                                   | 2014 - 2017 |
 
