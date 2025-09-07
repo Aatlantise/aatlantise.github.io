@@ -23,8 +23,12 @@ as well as supervising CS494/495 at University of Toronto.
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## Publications
+**Junghyun Min**, Xiulin Yang, Shira Wein.
+[When does meaning backfire? Investigating the role of AMRs in NLI](https://arxiv.org/abs/2506.14613).
+*SEM 2025.
+
 Lauren Levine, **Junghyun Min**, Amir Zeldes.
-[Building UD Cairo for Old English in the Classroom](https://aclanthology.org/2025.udw-1.10/)
+[Building UD Cairo for Old English in the Classroom](https://aclanthology.org/2025.udw-1.10/).
 UDW at SyntaxFest 2025.
 
 **Junghyun Min**, Minho Lee, Woochul Lee, Yeonsoo Lee. 
@@ -41,11 +45,11 @@ BlackboxNLP at EMNLP 2020.
 
 ## Education and work experience
 
-| Ph.D. student, Linguistics, Georgetown University. Advised by [Ethan Wilcox](https://wilcoxeg.github.io/). | 2024 -      |
-|------------------------------------------------------------------------------------------------------------|-------------|
-| Visiting Researcher, Computer Science, University of Toronto. Advised by [Annie Lee](https://www.cs.toronto.edu/~ealee/public/).                    | 2025        |
-| NLP Engineer, NCSOFT                                                                                       | 2021 - 2024 |
-| M.A. Cognitive Science, Johns Hopkins University. Advised by [Tal Linzen](https://tallinzen.net).          | 2019 - 2020 | 
-| Data Analyst, Harford Community College                                                                    | 2018 - 2019 |
-| B.S. Physics, B.A. Mathematics, Johns Hopkins University                                                   | 2014 - 2017 |
+| Ph.D. student, Linguistics, Georgetown University. Advised by [Ethan Wilcox](https://wilcoxeg.github.io/) | 2024 -      |
+|-----------------------------------------------------------------------------------------------------------|-------------|
+| Visiting Researcher, Computer Science, University of Toronto                                              | 2025        |
+| NLP Engineer, NCSOFT                                                                                      | 2021 - 2024 |
+| M.A. Cognitive Science, Johns Hopkins University. Advised by [Tal Linzen](https://tallinzen.net)          | 2019 - 2020 | 
+| Data Analyst, Harford Community College                                                                   | 2018 - 2019 |
+| B.S. Physics, B.A. Mathematics, Johns Hopkins University                                                  | 2014 - 2017 |
 

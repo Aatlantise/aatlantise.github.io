@@ -13,9 +13,6 @@ Technical reports, preprints, and projects outside of linguistics.
 Hannah Liu, Ethan Yue Heng Cheung, Shou-Yi Hung, **Junghyun Min**, Syed Mekael Wasti, Runtong Liang, ShiYao Qian, shizhao zheng, Elsie Chan, Ka Ieng Charlotte Lo, Wing Yu Yip, Richard Tzong-Han Tsai, En-Shiun Annie Lee.
 SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages. WQMDS poster. 2025.
 
-**Junghyun Min**, Xiulin Yang, Shira Wein.
-[When Does Meaning Backfire? Investigating the Role of AMRs in NLI](https://arxiv.org/abs/2506.14613). ArXiv preprint. 2025.
-
 ## 2024
 Minho Lee, **Junghyun Min**, Woochul Lee, Yeonsoo Lee.
 [Structured Language Generation Model for Robust Structure Prediction](https://arxiv.org/abs/2402.08971). ArXiv preprint. 2024.
