@@ -14,11 +14,11 @@ interact with meaning and form when they process language and perform linguistic
 
 Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU and information extraction.
 
-Outside of classes and assitantships, I like to participate in intramural sports as both player and coach and
+Outside of classes and assistantships, I like to participate in intramural sports as both player and coach and
 attend free food events around campus.
 
 In Fall 2025, I will be serving as Teaching Assistant for LING1000 at Georgetown University
-as well as supervising CS494/495 at University of Toronto. 
+as well as supervising CSC494 at the University of Toronto. 
 
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
