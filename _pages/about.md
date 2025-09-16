@@ -17,10 +17,16 @@ Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU
 Outside of classes and assistantships, I like to participate in intramural sports as both player and coach and
 attend free food events around campus.
 
-In Fall 2025, I will be serving as Teaching Assistant for LING1000 at Georgetown University
-as well as supervising CSC494 at the University of Toronto. 
-
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
+
+## News
+
+* Sep 2025: I will be attending EMNLP 2025--see you in Suzhou!
+* Aug 2025: I will be serving as Teaching Assistant for LING1000 at Georgetown University
+as well as supervising CSC494 at the University of Toronto during the fall.
+* May 2025: I will be I'll be working with Annie Lee and her students at U of T and Ontario Tech
+on topics around multilingual and low-resource NLP.
+* Jan 2025: I will be attending NAACL 2025--see you in Albuquerque!
 
 ## Publications
 **Junghyun Min**, Xiulin Yang, Shira Wein.
