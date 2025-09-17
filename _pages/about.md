@@ -9,8 +9,9 @@ redirect_from:
 
 I'm a PhD Student at the Linguistic Department at Georgetown University,
 advised by [Ethan Wilcox](https://wilcoxeg.github.io/).
-I am most interested in natural language understanding and how humans and computational systems 
-interact with meaning and form when they process language and perform linguistic tasks.
+I am interested in information theoretic approaches to linguistics and 
+the representations of syntactic and semantic structures in models of language and text, including
+annotated corpora and LLMs.
 
 Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU and information extraction.
 
@@ -23,9 +24,9 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 * Sep 2025: I will be attending EMNLP 2025--see you in Suzhou!
 * Aug 2025: I will be serving as Teaching Assistant for LING1000 at Georgetown University
-as well as supervising CSC494 at the University of Toronto during the fall.
-* May 2025: I will be I'll be working with Annie Lee and her students at U of T and Ontario Tech
-on topics around multilingual and low-resource NLP.
+as well as Course Assistant for CSC494 at the University of Toronto during the fall.
+* May 2025: I will be working with Annie Lee and her students at the University of Toronto
+and Ontario Tech University on topics around multilingual and low-resource NLP.
 * Jan 2025: I will be attending NAACL 2025--see you in Albuquerque!
 
 ## Publications
