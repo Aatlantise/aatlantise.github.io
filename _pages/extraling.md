@@ -10,6 +10,10 @@ redirect_from:
 Technical reports, preprints, and projects outside of linguistics.
 
 ## 2025
+**Junghyun Min**.
+[산호세의 잘못된 표기 새너제이에 관하여](https://korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=321000&pageIndex=10&searchCondition=qsubject&searchKeyword=). 
+온라인가나다 321000. Sep 19, 2025.
+
 Hannah Liu, Ethan Yue Heng Cheung, Shou-Yi Hung, **Junghyun Min**, Syed Mekael Wasti, Runtong Liang, ShiYao Qian, shizhao zheng, Elsie Chan, Ka Ieng Charlotte Lo, Wing Yu Yip, Richard Tzong-Han Tsai, En-Shiun Annie Lee.
 SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages. Poster at WQMDS 2025.
 
