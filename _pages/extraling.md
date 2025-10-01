@@ -10,12 +10,17 @@ redirect_from:
 Technical reports, preprints, and projects outside of linguistics.
 
 ## 2025
+Abhishek Purushothama, **Junghyun Min**, Brandon Waldon, Nathan Schneider.
+Not Ready for the Bench: LLM Legal Interpretation Is Unstable And Uncalibrated to Human Judgments.
+Non-archival poster presentation, NLLP at EMNLP 2025.
+
 **Junghyun Min**.
 [산호세의 잘못된 표기 새너제이에 관하여](https://korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=321000&pageIndex=10&searchCondition=qsubject&searchKeyword=). 
 온라인가나다 321000. Sep 19, 2025.
 
-Hannah Liu, Ethan Yue Heng Cheung, Shou-Yi Hung, **Junghyun Min**, Syed Mekael Wasti, Runtong Liang, ShiYao Qian, shizhao zheng, Elsie Chan, Ka Ieng Charlotte Lo, Wing Yu Yip, Richard Tzong-Han Tsai, En-Shiun Annie Lee.
-SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages. Poster at WQMDS 2025.
+Hannah Liu, **Junghyun Min**, Ethan Yue Heng Cheung, Shou-Yi Hung, Syed Mekael Wasti, Runtong Liang, ShiYao Qian, shizhao zheng, Elsie Chan, Ka Ieng Charlotte Lo, Wing Yu Yip, Richard Tzong-Han Tsai, En-Shiun Annie Lee.
+[SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages.](https://arxiv.org/abs/2509.20557v1) 
+Non-archival poster presentation, WQMDS at COLM 2025.
 
 ## 2024
 Minho Lee, **Junghyun Min**, Woochul Lee, Yeonsoo Lee.
@@ -39,6 +44,11 @@ ai.ly, a GPT-2 based AI lyricist that composes user-custom lyrics. 2021. [Sample
 ## 2020
 **Junghyun Min**.
 [The roots and effects of heuristics in natural langauge inference and question answering models](../files/Junghyun-Min-Masters-Thesis.pdf). 2020. Master's thesis.
+
+## 2019
+R. Thomas McCoy, **Junghyun Min**, Tal Linzen.
+BERTs of a feather do not generalize together: Large variability in generalization across models with similar test set performance. 
+Non-archival poster presentation, New York Academy of Sciences NLP, Dialog and Speech Symposium 2019.
 
 ## 2017
 Christopher McBride, **Junghyun Min**.
