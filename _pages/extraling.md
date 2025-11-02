@@ -12,11 +12,11 @@ Technical reports, preprints, and projects outside of linguistics.
 ## 2025
 **Junghyun Min**, York Hay Ng, Sophia Chan, Helena Shunhua Zhao, En-Shiun Annie Lee.
 [CantoNLU: A benchmark for Cantonese natural language understanding](https://arxiv.org/abs/2510.20670).
-ArXiv preprint. 2024.
+ArXiv preprint. 2025.
 
 Abhishek Purushothama, **Junghyun Min**, Brandon Waldon, Nathan Schneider.
-Not Ready for the Bench: LLM Legal Interpretation Is Unstable And Uncalibrated to Human Judgments.
-Non-archival poster presentation, NLLP at EMNLP 2025.
+[Not Ready for the Bench: LLM legal interpretation is unstable and out of step with human judgments](https://arxiv.org/abs/2510.25356).
+Non-archival poster presentation, NLLP at EMNLP; ArXiv preprint. 2025.
 
 **Junghyun Min**.
 [산호세의 잘못된 표기 새너제이에 관하여](https://korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=321000&pageIndex=10&searchCondition=qsubject&searchKeyword=). 
