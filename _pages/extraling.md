@@ -33,6 +33,9 @@ Minho Lee, **Junghyun Min**, Woochul Lee, Yeonsoo Lee.
 **Junghyun Min**.
 [문장 부호 복원을 통한 구조 이해 능력의 비지도 향상](https://ncsoft.github.io/ncresearch/195e5588d76145a5becc6052cdbf9cfa5092dcbe). NC AI Tech Blog. 2024.
 
+Invited interviewee for [A Review of Digital Creative Industries in Asia: Opportunities and Policies to Foster Growth and Create High-Quality Jobs](https://www.adb.org/publications/review-digital-creative-industries-asia).
+Asian Development Bank. Oct 2024.
+
 ## 2023
 genDOC, a [wecommit.ai](https://www.wecommit.ai) prototype document assistant for paperwork automation. Daangn-Primer AI Hackathon 2023.
 
