@@ -16,7 +16,7 @@ ArXiv preprint. 2025.
 
 Abhishek Purushothama, **Junghyun Min**, Brandon Waldon, Nathan Schneider.
 [Not Ready for the Bench: LLM legal interpretation is unstable and out of step with human judgments](https://arxiv.org/abs/2510.25356).
-Non-archival poster presentation, NLLP at EMNLP; ArXiv preprint. 2025.
+Non-archival poster presentation, NLLP at EMNLP; ArXiv preprint. 2025. [Oral presentation](https://www.youtube.com/watch?v=HGgZeFhUYpo&t=7275s).
 
 **Junghyun Min**.
 [산호세의 잘못된 표기 새너제이에 관하여](https://korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=321000&pageIndex=10&searchCondition=qsubject&searchKeyword=). 
@@ -25,6 +25,11 @@ Non-archival poster presentation, NLLP at EMNLP; ArXiv preprint. 2025.
 Hannah Liu, **Junghyun Min**, Ethan Yue Heng Cheung, Shou-Yi Hung, Syed Mekael Wasti, Runtong Liang, ShiYao Qian, shizhao zheng, Elsie Chan, Ka Ieng Charlotte Lo, Wing Yu Yip, Richard Tzong-Han Tsai, En-Shiun Annie Lee.
 [SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages.](https://arxiv.org/abs/2509.20557v1) 
 Non-archival poster presentation, WQMDS at COLM 2025.
+
+York Hay Ng, Yihe Li, Shizhao Zheng, Junghyun Min, and Eu-Shiun Annie Lee.
+Bridging Worlds with Words: Innovations at the Lee Language Lab. Toronto Machine Learning Summit. 2025.
+[Oral presentation](https://youtu.be/09KRDdTlFj4?si=HwX4wk0FXpV2PXWi&t=1387).
+
 
 ## 2024
 Minho Lee, **Junghyun Min**, Woochul Lee, Yeonsoo Lee.
