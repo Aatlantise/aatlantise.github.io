@@ -30,6 +30,10 @@ and Ontario Tech University on topics around multilingual and low-resource NLP.
 * Jan 2025: I will be attending NAACL 2025--see you in Albuquerque!
 
 ## Publications
+Minho Lee, Junghyun Min, Yerang Kim, Woochul Lee, Yeonsoo Lee.
+[Structured Language Generation Model: Loss Calibration and Formatted Decoding for Robust Structure Prediction](../files/slgm-lee-2026.pdf).
+Workshop on New Frontiers in Information Retrieval at AAAI 2026.
+
 **Junghyun Min**, Xiulin Yang, Shira Wein.
 [When does meaning backfire? Investigating the role of AMRs in NLI](https://arxiv.org/abs/2506.14613).
 *SEM 2025.
