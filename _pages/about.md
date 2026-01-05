@@ -22,12 +22,12 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## News
 
+* Jan 2026: I will be serving as Teaching Assistant for COSC-5402/LING-5402 Empirical Methods in NLP at Georgetown University during the spring semester.
 * Sep 2025: I will be attending EMNLP 2025--see you in Suzhou!
 * Aug 2025: I will be serving as Teaching Assistant for LING1000 at Georgetown University
 as well as Course Assistant for CSC494 at the University of Toronto during the fall.
 * May 2025: I will be working with Annie Lee and her students at the University of Toronto
 and Ontario Tech University on topics around multilingual and low-resource NLP.
-* Jan 2025: I will be attending NAACL 2025--see you in Albuquerque!
 
 ## Publications
 Minho Lee, **Junghyun Min**, Yerang Kim, Woochul Lee, Yeonsoo Lee.
