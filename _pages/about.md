@@ -22,7 +22,7 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## News
 
-* Jan 2026: I will be serving as Teaching Assistant for COSC-5402/LING-5402 Empirical Methods in NLP at Georgetown University during the spring semester.
+* Jan 2026: I will be serving as Teaching Assistant for COSC-5402 Empirical Methods in NLP at Georgetown University during the spring semester.
 * Sep 2025: I will be attending EMNLP 2025--see you in Suzhou!
 * Aug 2025: I will be serving as Teaching Assistant for LING1000 at Georgetown University
 as well as Course Assistant for CSC494 at the University of Toronto during the fall.
@@ -30,10 +30,12 @@ as well as Course Assistant for CSC494 at the University of Toronto during the f
 and Ontario Tech University on topics around multilingual and low-resource NLP.
 
 ## Publications
+### 2026
 Minho Lee, **Junghyun Min**, Yerang Kim, Woochul Lee, Yeonsoo Lee.
 [Structured Language Generation Model: Loss Calibration and Formatted Decoding for Robust Structure Prediction](https://arxiv.org/pdf/2402.08971v3).
 Workshop on New Frontiers in Information Retrieval at AAAI 2026.
 
+### 2025
 **Junghyun Min**, Xiulin Yang, Shira Wein.
 [When does meaning backfire? Investigating the role of AMRs in NLI](https://arxiv.org/abs/2506.14613).
 *SEM 2025.
@@ -45,6 +47,8 @@ UDW at SyntaxFest 2025.
 **Junghyun Min**, Minho Lee, Woochul Lee, Yeonsoo Lee. 
 [Punctuation restoration improves structure understanding without supervision](https://aclanthology.org/2025.repl4nlp-1.10/).
 RepL4NLP at NAACL 2025.
+
+### 2020
 
 **Junghyun Min**, R. Thomas McCoy, Dipanjan Das, Emily Pitler, and Tal Linzen.
 [Syntactic data augmentation increases robustness to inference heuristics](https://aclanthology.org/2020.acl-main.212/).

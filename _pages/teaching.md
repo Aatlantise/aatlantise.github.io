@@ -8,6 +8,9 @@ redirect_from:
 ---
 An outline of my teaching (assistant) experiences. 
 
+## 2026
+Teaching assistant for Empirical Methods in NLP (COSC5402), Georgetown University. Instructor: Nathan Schneider
+
 ## 2025
 Teaching assistant for Introduction to Language (LING1000), Georgetown University. Instructor: Paul Portner
 

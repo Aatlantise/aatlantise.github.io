@@ -9,6 +9,10 @@ redirect_from:
 
 Technical reports, preprints, and projects outside of linguistics.
 
+## 2026
+**Junghyun Min**, Nathan Schneider.
+A Curious Class of Adpositional Multiword Expressions in Korean.
+
 ## 2025
 **Junghyun Min**, York Hay Ng, Sophia Chan, Helena Shunhua Zhao, En-Shiun Annie Lee.
 [CantoNLU: A benchmark for Cantonese natural language understanding](https://arxiv.org/abs/2510.20670).
@@ -26,7 +30,7 @@ Hannah Liu, **Junghyun Min**, Ethan Yue Heng Cheung, Shou-Yi Hung, Syed Mekael W
 [SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages.](https://arxiv.org/abs/2509.20557v1) 
 Non-archival poster presentation, WQMDS at COLM 2025.
 
-York Hay Ng, Yihe Li, Shizhao Zheng, Junghyun Min, and Eu-Shiun Annie Lee.
+York Hay Ng, Yihe Li, Shizhao Zheng, **Junghyun Min**, and Eu-Shiun Annie Lee.
 Bridging Worlds with Words: Innovations at the Lee Language Lab. Toronto Machine Learning Summit. 2025.
 [Oral presentation](https://youtu.be/09KRDdTlFj4?si=HwX4wk0FXpV2PXWi&t=1387).
 
