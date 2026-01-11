@@ -37,7 +37,7 @@ Workshop on New Frontiers in Information Retrieval at AAAI 2026.
 
 ### 2025
 **Junghyun Min**, Xiulin Yang, Shira Wein.
-[When does meaning backfire? Investigating the role of AMRs in NLI](https://arxiv.org/abs/2506.14613).
+[When does meaning backfire? Investigating the role of AMRs in NLI](https://aclanthology.org/2025.starsem-1.16/).
 *SEM 2025.
 
 Lauren Levine, **Junghyun Min**, Amir Zeldes.
