@@ -9,9 +9,10 @@ redirect_from:
 
 I'm a PhD Student at the Linguistic Department at Georgetown University,
 advised by [Ethan Wilcox](https://wilcoxeg.github.io/).
-I am interested in information theoretic approaches to linguistics and 
-the representations of syntactic and semantic structures in models of language and text, including
-annotated corpora and LLMs.
+My research explores the mechanisms by which language and information is processed. I am specifically interested in:
+* how modality shapes language processing,
+* how structures of form and meaning are represented in models of language and text,
+* and how such models align with or diverge from human-like judgment and behavior.
 
 Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU and information extraction.
 

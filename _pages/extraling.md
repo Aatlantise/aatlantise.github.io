@@ -14,6 +14,9 @@ Technical reports, preprints, and projects outside of linguistics.
 A Curious Class of Adpositional Multiword Expressions in Korean.
 
 ## 2025
+Co-interviewee with Abhishek Purushothama for [AI might not be coming for lawyers' jobs anytime soon](https://www.technologyreview.com/2025/12/15/1129181/ai-might-not-be-coming-for-lawyers-jobs-anytime-soon/).
+MIT Technology Review. Dec 2025.
+
 **Junghyun Min**, York Hay Ng, Sophia Chan, Helena Shunhua Zhao, En-Shiun Annie Lee.
 [CantoNLU: A benchmark for Cantonese natural language understanding](https://arxiv.org/abs/2510.20670).
 ArXiv preprint. 2025.
@@ -36,9 +39,6 @@ Bridging Worlds with Words: Innovations at the Lee Language Lab. Toronto Machine
 
 
 ## 2024
-Minho Lee, **Junghyun Min**, Woochul Lee, Yeonsoo Lee.
-[Structured Language Generation Model for Robust Structure Prediction](https://arxiv.org/abs/2402.08971). ArXiv preprint. 2024.
-
 **Junghyun Min**.
 [문장 부호 복원을 통한 구조 이해 능력의 비지도 향상](https://ncsoft.github.io/ncresearch/195e5588d76145a5becc6052cdbf9cfa5092dcbe). NC AI Tech Blog. 2024.
 
