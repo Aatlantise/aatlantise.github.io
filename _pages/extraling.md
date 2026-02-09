@@ -9,10 +9,6 @@ redirect_from:
 
 Technical reports, preprints, and projects outside of linguistics.
 
-## 2026
-**Junghyun Min**, Nathan Schneider.
-A Curious Class of Adpositional Multiword Expressions in Korean.
-
 ## 2025
 Co-interviewee with Abhishek Purushothama for [AI might not be coming for lawyers' jobs anytime soon](https://www.technologyreview.com/2025/12/15/1129181/ai-might-not-be-coming-for-lawyers-jobs-anytime-soon/).
 MIT Technology Review. Dec 2025.

@@ -23,23 +23,26 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## News
 
+* Mar 2026: I will be attending EACL 2026--see you in Rabat!
 * Jan 2026: I will be serving as Teaching Assistant for COSC-5402 Empirical Methods in NLP at Georgetown University during the spring semester.
 * Sep 2025: I will be attending EMNLP 2025--see you in Suzhou!
 * Aug 2025: I will be serving as Teaching Assistant for LING1000 at Georgetown University
 as well as Course Assistant for CSC494 at the University of Toronto during the fall.
-* May 2025: I will be working with Annie Lee and her students at the University of Toronto
-and Ontario Tech University on topics around multilingual and low-resource NLP.
 
 ## Publications
 ### 2026
+**Junghyun Min**, Na-Rae Han, Jena D. Hwang, Nathan Schneider.
+A Curious Class of Adpositional Multiword Expressions in Korean.
+MWE at EACL 2026.
+
 Minho Lee, **Junghyun Min**, Yerang Kim, Woochul Lee, Yeonsoo Lee.
 [Structured Language Generation Model: Loss Calibration and Formatted Decoding for Robust Structure Prediction](https://arxiv.org/pdf/2402.08971v3).
-Workshop on New Frontiers in Information Retrieval at AAAI 2026.
+FrontierIR at AAAI 2026.
 
 ### 2025
 **Junghyun Min**, Xiulin Yang, Shira Wein.
 [When does meaning backfire? Investigating the role of AMRs in NLI](https://aclanthology.org/2025.starsem-1.16/).
-*SEM 2025.
+*SEM at EMNLP 2025.
 
 Lauren Levine, **Junghyun Min**, Amir Zeldes.
 [Building UD Cairo for Old English in the Classroom](https://aclanthology.org/2025.udw-1.10/).
