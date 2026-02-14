@@ -31,6 +31,10 @@ as well as Course Assistant for CSC494 at the University of Toronto during the f
 
 ## Publications
 ### 2026
+Hannah Liu, **Junghyun Min**, Ethan Yue Heng Cheung, Shou-Yi Hung, Syed Mekael Wasti, Runtong Liang, ShiYao Qian, shizhao zheng, Elsie Chan, Ka Ieng Charlotte Lo, Wing Yu Yip, Richard Tzong-Han Tsai, En-Shiun Annie Lee.
+[SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages.](https://arxiv.org/abs/2509.20557v1) 
+LREC 2026.
+
 **Junghyun Min**, Na-Rae Han, Jena D. Hwang, Nathan Schneider.
 A Curious Class of Adpositional Multiword Expressions in Korean.
 MWE at EACL 2026.
