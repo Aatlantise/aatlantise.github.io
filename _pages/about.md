@@ -36,7 +36,7 @@ Hannah Liu, **Junghyun Min**, Ethan Yue Heng Cheung, Shou-Yi Hung, Syed Mekael W
 LREC 2026.
 
 **Junghyun Min**, Na-Rae Han, Jena D. Hwang, Nathan Schneider.
-A Curious Class of Adpositional Multiword Expressions in Korean.
+[A Curious Class of Adpositional Multiword Expressions in Korean](https://arxiv.org/abs/2602.16023).
 MWE at EACL 2026.
 
 Minho Lee, **Junghyun Min**, Yerang Kim, Woochul Lee, Yeonsoo Lee.
