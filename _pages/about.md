@@ -31,6 +31,10 @@ as well as Course Assistant for CSC494 at the University of Toronto during the f
 
 ## Publications
 ### 2026
+Abhishek Purushothama*, **Junghyun Min**\*, Brandon Waldon, Nathan Schneider. 
+[Not ready for the bench: LLM legal interpretation is unstable and out of step with human judgment](https://arxiv.org/abs/2510.25356).
+ACM FAccT 2026.
+
 Hannah Liu, **Junghyun Min**, Ethan Yue Heng Cheung, Shou-Yi Hung, Syed Mekael Wasti, Runtong Liang, ShiYao Qian, Shizhao Zheng, Elsie Chan, Ka Ieng Charlotte Lo, Wing Yu Yip, Richard Tzong-Han Tsai, En-Shiun Annie Lee.
 [SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages](https://arxiv.org/abs/2509.20557v1). 
 LREC 2026.
