@@ -9,6 +9,19 @@ redirect_from:
 
 Technical reports, preprints, and projects outside of linguistics.
 
+## 2026
+**Junghyun Min**, Ethan Wilcox.
+[Syntactic Information Content in Word Duration and Pause](../files/syntactic-min-2026.pdf).
+Non-archival poster presentation at MASC-ALL 2026.
+
+**Junghyun Min**, Emma Thronson, Lillian Ehrhart, Kohei Kajikawa, Lanni Bu.
+[muRST: an Analysis of Cross-lingual Variation in Discourse Structure](../files/murst-min-2026.pdf).
+Non-archival poster presentation at MASC-ALL 2026.
+
+Michael Zhou, Markus Frohmann, **Junghyun Min**.
+[Punctuation Restoration for Linguistic Structure Learning](../files/punctuation-zhou-2026.pdf).
+Non-archival poster presentation at MASC-ALL 2026.
+
 ## 2025
 Co-interviewee with Abhishek Purushothama for [AI might not be coming for lawyers' jobs anytime soon](https://www.technologyreview.com/2025/12/15/1129181/ai-might-not-be-coming-for-lawyers-jobs-anytime-soon/).
 MIT Technology Review. Dec 2025.
