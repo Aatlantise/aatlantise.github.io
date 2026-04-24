@@ -11,7 +11,7 @@ I'm a PhD Student at the Linguistic Department at Georgetown University,
 advised by [Ethan Wilcox](https://wilcoxeg.github.io/).
 My research explores the mechanisms by which language and information is processed. I am specifically interested in:
 * how modality shapes language processing,
-* how structures of form and meaning are represented in models of language and text,
+* how language models learn linguistic structures either via explicit training or "emergence,"
 * and how such models align with or diverge from human-like judgment and behavior.
 
 Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU and information extraction.
@@ -23,11 +23,10 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## News
 
+* Apr 2026: I'll be spending the summer in New Jersey as Machine Learning and AI Intern at Bell Labs.
 * Feb 2026: I will be attending EACL 2026--see you in Rabat!
 * Jan 2026: I will be serving as Teaching Assistant for COSC-5402 Empirical Methods in NLP at Georgetown University during the spring semester.
 * Sep 2025: I will be attending EMNLP 2025--see you in Suzhou!
-* Aug 2025: I will be serving as Teaching Assistant for LING1000 at Georgetown University
-as well as Course Assistant for CSC494 at the University of Toronto during the fall.
 
 ## Publications
 ### 2026
@@ -35,7 +34,9 @@ Abhishek Purushothama*, **Junghyun Min**\*, Brandon Waldon, Nathan Schneider.
 [Not ready for the bench: LLM legal interpretation is unstable and out of step with human judgment](https://arxiv.org/abs/2510.25356).
 ACM FAccT 2026.
 
-Hannah Liu, **Junghyun Min**, Ethan Yue Heng Cheung, Shou-Yi Hung, Syed Mekael Wasti, Runtong Liang, ShiYao Qian, Shizhao Zheng, Elsie Chan, Ka Ieng Charlotte Lo, Wing Yu Yip, Richard Tzong-Han Tsai, En-Shiun Annie Lee.
+Hannah Liu, Junghyun Min, En-Shiun Annie Lee, Ethan Yue Heng Cheung, Shou-Yi Hung, Elsie Chan,
+Shiyao Qian, Runtong Liang, Kimlan Huynh, Wing Yu Yip, York Hay Ng, TSZ Fung Yau, Ka Ieng Charlotte Lo,
+You-Wei Wu, Richard Tzong-Han Tsai.
 [SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages](https://arxiv.org/abs/2509.20557v1). 
 LREC 2026.
 
