@@ -10,6 +10,10 @@ redirect_from:
 Technical reports, preprints, and projects outside of linguistics.
 
 ## 2026
+**Junghyun Min**, Tamar I Regev, Alex Warstadt, Tiago Pimentel, Ethan Gotlieb Wilcox.
+Syntactic Information Content in Word Duration and Pause.
+Non-archival poster presentation, SCiL at ACL 2026.
+
 **Junghyun Min**, Ethan Wilcox.
 [Syntactic Information Content in Word Duration and Pause](../files/syntactic-min-2026.pdf).
 Non-archival poster presentation at MASC-ALL 2026.

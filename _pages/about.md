@@ -14,7 +14,7 @@ My research explores the mechanisms by which language and information is process
 * how language models learn linguistic structures either via explicit training or "emergence,"
 * and how such models align with or diverge from human-like judgment and behavior.
 
-Before coming to Georgetown, I was NLP engineer at NCSOFT, where I worked on NLU and information extraction.
+Before coming to Georgetown, I was an NLP engineer at NCSOFT, where I worked on NLU and information extraction.
 
 Outside of classes and assistantships, I like to participate in intramural sports as both player and coach and
 attend free food events around campus.
@@ -34,8 +34,8 @@ Abhishek Purushothama*, **Junghyun Min**\*, Brandon Waldon, Nathan Schneider.
 [Not ready for the bench: LLM legal interpretation is unstable and out of step with human judgment](https://arxiv.org/abs/2510.25356).
 ACM FAccT 2026.
 
-Hannah Liu, Junghyun Min, En-Shiun Annie Lee, Ethan Yue Heng Cheung, Shou-Yi Hung, Elsie Chan,
-Shiyao Qian, Runtong Liang, Kimlan Huynh, Wing Yu Yip, York Hay Ng, TSZ Fung Yau, Ka Ieng Charlotte Lo,
+Hannah Liu, **Junghyun Min**, En-Shiun Annie Lee, Ethan Yue Heng Cheung, Shou-Yi Hung, Elsie Chan,
+Shiyao Qian, Runtong Liang, Kimlan Huynh, Wing Yu Yip, York Hay Ng, Tsz Fung Yau, Ka Ieng Charlotte Lo,
 You-Wei Wu, Richard Tzong-Han Tsai.
 [SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages](https://arxiv.org/abs/2509.20557v1). 
 LREC 2026.
