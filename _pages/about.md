@@ -37,7 +37,7 @@ ACM FAccT 2026.
 Hannah Liu, **Junghyun Min**, En-Shiun Annie Lee, Ethan Yue Heng Cheung, Shou-Yi Hung, Elsie Chan,
 Shiyao Qian, Runtong Liang, Kimlan Huynh, Wing Yu Yip, York Hay Ng, Tsz Fung Yau, Ka Ieng Charlotte Lo,
 You-Wei Wu, Richard Tzong-Han Tsai.
-[SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages](https://arxiv.org/abs/2509.20557v1). 
+[SiniticMTError: A Machine Translation Dataset with Error Annotations for Sinitic Languages](https://lrec.elra.info/lrec2026-main-683). 
 LREC 2026.
 
 **Junghyun Min**, Na-Rae Han, Jena D. Hwang, Nathan Schneider.
