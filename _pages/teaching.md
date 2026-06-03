@@ -9,6 +9,8 @@ redirect_from:
 An outline of my teaching (assistant) experiences. 
 
 ## 2026
+Teaching assistant for Computational Language Processing (LING), Georgetown University. Instructor: Ethan Wilcox
+
 Teaching assistant for Empirical Methods in NLP (COSC5402), Georgetown University. Instructor: Nathan Schneider
 
 ## 2025
