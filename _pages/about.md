@@ -23,16 +23,15 @@ attend free food events around campus.
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## News
-
+* Jun 2026: I will be attending ACL 2026--see you in San Diego!
 * May 2026: I will be serving as Teaching Assistant for LING-2040/4400 Computational Language Processing at Georgetown during the fall.
 * Apr 2026: I'll be spending the summer in New Jersey as Machine Learning and AI Intern at Bell Labs.
 * Feb 2026: I will be attending EACL 2026--see you in Rabat!
-* Jan 2026: I will be serving as Teaching Assistant for COSC-5402 Empirical Methods in NLP at Georgetown University during the spring semester.
 
 ## Publications
 ### 2026
 Abhishek Purushothama*, **Junghyun Min**\*, Brandon Waldon, Nathan Schneider. 
-[Prompting from the bench: Large-scale pretraining is not sufficient to prepare LLMs for ordinary meaning analysis](https://arxiv.org/abs/2510.25356).
+[Prompting from the bench: Large-scale pretraining is not sufficient to prepare LLMs for ordinary meaning analysis](https://dl.acm.org/doi/10.1145/3805689.3812346).
 ACM FAccT 2026.
 
 Hannah Liu, **Junghyun Min**, En-Shiun Annie Lee, Ethan Yue Heng Cheung, Shou-Yi Hung, Elsie Chan,

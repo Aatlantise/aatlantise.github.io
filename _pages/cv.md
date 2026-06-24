@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # Curriculum vitae
-Last updated: Nov 17, 2025
+Last updated: Feb 17, 2026
 [Junghyun Min CV](https://aatlantise.science/files/Junghyun%20Min%20CV.pdf)
 
 # Resume
-Last updated: Nov 17, 2025
+Last updated: Jun 23, 2026
 [Junghyun Min Resume](https://aatlantise.science/files/Junghyun%20Min%20Resume.pdf)
