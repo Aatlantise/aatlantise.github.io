@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Student at the Linguistic Department at Georgetown University,
+I'm a PhD Student at the Linguistics Department at Georgetown University,
 advised by [Ethan Wilcox](https://wilcoxeg.github.io/).
 My research explores the mechanisms by which language and information is processed. I am specifically interested in:
 * how modality shapes language processing,
@@ -23,13 +23,17 @@ attend free food events around campus.
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## News
+* Aug 2026: I will be attending EMNLP 2026--see you in Budapest!
+* Aug 2026: I received the Outstanding Innovation Award and was a student presentation finalist at Nokia Bell Labs.
 * Jun 2026: I will be attending ACL 2026--see you in San Diego!
-* May 2026: I will be serving as Teaching Assistant for LING-2040/4400 Computational Language Processing at Georgetown during the fall.
-* Apr 2026: I'll be spending the summer in New Jersey as Machine Learning and AI Intern at Bell Labs.
-* Feb 2026: I will be attending EACL 2026--see you in Rabat!
+* May 2026: I will be serving as Teaching Assistant for LING-1000 Introduction to Language at Georgetown during the fall.
 
 ## Publications
 ### 2026
+**Junghyun Min**, Alex Warstadt, Tamar I Regev, Tiago Pimentel, Ethan Gotlieb Wilcox .
+Using Prosody to Predict Syntactic Structure.
+To appear at EMNLP 2026.
+
 Abhishek Purushothama*, **Junghyun Min**\*, Brandon Waldon, Nathan Schneider. 
 [Prompting from the bench: Large-scale pretraining is not sufficient to prepare LLMs for ordinary meaning analysis](https://dl.acm.org/doi/10.1145/3805689.3812346).
 ACM FAccT 2026.
