@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to my page! 
 I'm a PhD Student at the Linguistics Department at Georgetown University,
 advised by [Ethan Wilcox](https://wilcoxeg.github.io/).
 My research explores the mechanisms by which language and information is processed. I am specifically interested in:
@@ -30,9 +31,9 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## Publications
 ### 2026
-**Junghyun Min**, Alex Warstadt, Tamar I Regev, Tiago Pimentel, Ethan Gotlieb Wilcox .
-Using Prosody to Predict Syntactic Structure.
-To appear at EMNLP 2026.
+**Junghyun Min**, Alex Warstadt, Tamar I. Regev, Tiago Pimentel, Ethan Gotlieb Wilcox.
+[Using Prosody to Predict Syntactic Structure](https://arxiv.org/abs/2608.30260).
+EMNLP 2026.
 
 Abhishek Purushothama*, **Junghyun Min**\*, Brandon Waldon, Nathan Schneider. 
 [Prompting from the bench: Large-scale pretraining is not sufficient to prepare LLMs for ordinary meaning analysis](https://dl.acm.org/doi/10.1145/3805689.3812346).
