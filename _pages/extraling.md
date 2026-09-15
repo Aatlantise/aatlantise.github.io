@@ -10,6 +10,10 @@ redirect_from:
 Technical reports, preprints, and projects outside of linguistics.
 
 ## 2026
+**Junghyun Min**, Huseyin Uzunalioglu, Mohamed Trabelsi.
+[Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval](https://arxiv.org/abs/2609.13073).
+ArXiv preprint. 2026.
+
 **Junghyun Min**, Tamar I Regev, Alex Warstadt, Tiago Pimentel, Ethan Gotlieb Wilcox.
 Syntactic Information Content in Word Duration and Pause.
 Non-archival poster presentation, SCiL at ACL 2026.
