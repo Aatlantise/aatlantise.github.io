@@ -10,6 +10,14 @@ redirect_from:
 Technical reports, preprints, and projects outside of linguistics.
 
 ## 2026
+**Junghyun Min**, York Hay Ng, Sophia Chan, Laurian Li, Peixuan Ji, Man Ut Ian, Annie En-Shiun Lee.
+CantoNLU: A benchmark fo Cantonese Natural Language Understanding.
+Non-archival poster presentation, MRL at EMNLP 2026.
+
+**Junghyun Min**
+Language modeling via next feature prediction.
+Poster presentation at 2026 Language Science Day, University of Maryland. [Poster](https://georgetown1-my.sharepoint.com/:b:/g/personal/jm3743_georgetown_edu/IQC5_7hd7PL3T4_-m22uVuQzAfkFJomQkPL_Bx7cxwxwH0s?e=X51T7S).
+
 **Junghyun Min**, Huseyin Uzunalioglu, Mohamed Trabelsi.
 [Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval](https://arxiv.org/abs/2609.13073).
 ArXiv preprint. 2026.
@@ -40,7 +48,7 @@ ArXiv preprint. 2025.
 
 Abhishek Purushothama, **Junghyun Min**, Brandon Waldon, Nathan Schneider.
 [Not Ready for the Bench: LLM legal interpretation is unstable and out of step with human judgments](https://arxiv.org/abs/2510.25356).
-Non-archival poster presentation, NLLP at EMNLP; ArXiv preprint. 2025. [Oral presentation](https://www.youtube.com/watch?v=HGgZeFhUYpo&t=7275s).
+Non-archival presentation, NLLP at EMNLP; ArXiv preprint. 2025. [Oral presentation](https://www.youtube.com/watch?v=HGgZeFhUYpo&t=7275s).
 
 **Junghyun Min**.
 [산호세의 잘못된 표기 새너제이에 관하여](https://korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=321000&pageIndex=10&searchCondition=qsubject&searchKeyword=). 
