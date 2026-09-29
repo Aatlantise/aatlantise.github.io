@@ -10,11 +10,15 @@ redirect_from:
 Technical reports, preprints, and projects outside of linguistics.
 
 ## 2026
-**Junghyun Min**, York Hay Ng, Sophia Chan, Laurian Li, Peixuan Ji, Man Ut Ian, Annie En-Shiun Lee.
-CantoNLU: A benchmark fo Cantonese Natural Language Understanding.
+**Junghyun Min**, Mohamed Trabelsi.
+Autonomous Research for Open-ended Problems: A Case Study on Telecom Ticket Retrieval.
+Non-archival poster presentation, AutoMLR at NeurIPS 2026.
+
+**Junghyun Min**, York Hay Ng, Sophia Chan, Laurian Li, Peixuan Ji, Helena Shunhua Zhao, Man Ut Ian, Annie En-Shiun Lee.
+CantoNLU: A benchmark for Cantonese Natural Language Understanding.
 Non-archival poster presentation, MRL at EMNLP 2026.
 
-**Junghyun Min**
+**Junghyun Min**.
 Language modeling via next feature prediction.
 Poster presentation at 2026 Language Science Day, University of Maryland. [Poster](https://georgetown1-my.sharepoint.com/:b:/g/personal/jm3743_georgetown_edu/IQC5_7hd7PL3T4_-m22uVuQzAfkFJomQkPL_Bx7cxwxwH0s?e=X51T7S).
 

@@ -24,13 +24,17 @@ attend free food events around campus.
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## News
+* Sep 2026: I will be attending NeurIPS 2026--see you in Sydney!
 * Aug 2026: I will be attending EMNLP 2026--see you in Budapest!
 * Aug 2026: I received the Outstanding Innovation Award and was a student presentation finalist at Nokia Bell Labs.
 * Jun 2026: I will be attending ACL 2026--see you in San Diego!
-* May 2026: I will be serving as Teaching Assistant for LING-1000 Introduction to Language at Georgetown during the fall.
 
 ## Publications
 ### 2026
+Michael Zhou, Markus Frohmann, **Junghyun Min**.
+Better boundary prediction does not guarantee better structural representation.
+LP4FM at NeurIPS 2026.
+
 **Junghyun Min**, Alex Warstadt, Tamar I. Regev, Tiago Pimentel, Ethan Gotlieb Wilcox.
 [Using Prosody to Predict Syntactic Structure](https://arxiv.org/abs/2608.30260).
 EMNLP 2026.
