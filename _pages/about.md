@@ -32,7 +32,7 @@ You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 ## Publications
 ### 2026
 Michael Zhou, Markus Frohmann, **Junghyun Min**.
-Better boundary prediction does not guarantee better structural representation.
+[Better boundary prediction does not guarantee better structural representation](https://openreview.net/forum?id=B5tnJjLAum).
 LP4FM at NeurIPS 2026.
 
 **Junghyun Min**, Alex Warstadt, Tamar I. Regev, Tiago Pimentel, Ethan Gotlieb Wilcox.
