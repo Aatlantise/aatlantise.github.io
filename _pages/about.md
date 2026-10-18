@@ -24,10 +24,10 @@ attend free food events around campus.
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## News
-* Sep 2026: I will be attending NeurIPS 2026--see you in Sydney!
-* Aug 2026: I will be attending EMNLP 2026--see you in Budapest!
+* Oct 2026: I will be giving a talk at Tian Lan's group at George Washington University.
+* Sep 2026: I will be attending NeurIPS 2026 to present posters at AutoMLR and LP4FM--see you in Sydney!
+* Aug 2026: I will be attending EMNLP 2026 to present an oral at the main conference and a poster at MRL--see you in Budapest!
 * Aug 2026: I received the Outstanding Innovation Award and was a student presentation finalist at Nokia Bell Labs.
-* Jun 2026: I will be attending ACL 2026--see you in San Diego!
 
 ## Publications
 ### 2026
@@ -37,7 +37,7 @@ LP4FM at NeurIPS 2026.
 
 **Junghyun Min**, Alex Warstadt, Tamar I. Regev, Tiago Pimentel, Ethan Gotlieb Wilcox.
 [Using Prosody to Predict Syntactic Structure](https://arxiv.org/abs/2608.30260).
-EMNLP 2026.
+EMNLP 2026. [Video presentation](https://georgetown1-my.sharepoint.com/personal/jm3743_georgetown_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjm3743%5Fgeorgetown%5Fedu%2FDocuments%2FResearch%2Fsyntax%2Dprosody%2Dinterface%2Fmin%2D2026%2Dusing%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E58b28675%2D563d%2D4aa1%2D871b%2D5f3a427db6f8).
 
 Abhishek Purushothama*, **Junghyun Min**\*, Brandon Waldon, Nathan Schneider. 
 [Prompting from the bench: Large-scale pretraining is not sufficient to prepare LLMs for ordinary meaning analysis](https://dl.acm.org/doi/10.1145/3805689.3812346).
