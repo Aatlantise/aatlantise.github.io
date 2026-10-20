@@ -24,7 +24,7 @@ attend free food events around campus.
 You can reach me at [jm3743@georgetown.edu](mailto:jm3743@georgetown.edu).
 
 ## News
-* Oct 2026: I will be giving a talk at Tian Lan's group at George Washington University.
+* Oct 2026: I gave a talk at Tian Lan's group (GWU Electrical and Computer Engineering) on multi-channel processing in language models.
 * Sep 2026: I will be attending NeurIPS 2026 to present posters at AutoMLR and LP4FM--see you in Sydney!
 * Aug 2026: I will be attending EMNLP 2026 to present an oral at the main conference and a poster at MRL--see you in Budapest!
 * Aug 2026: I received the Outstanding Innovation Award and was a student presentation finalist at Nokia Bell Labs.
